@@ -52,8 +52,6 @@ values (75516, 34, 12),
           (47127, 28, 11);
 
 
-use interview_db;
-
 with sum_of_total_subs_per_contest as (
 select
 c.contest_id,
