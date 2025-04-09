@@ -1,0 +1,2001 @@
+cashier_id,department_name,discount
+21,Clothing,20.65
+9,Electronics,16.88
+28,Home & Garden,26.15
+40,Home & Garden,10.51
+11,Electronics,9.26
+17,Toys,48.37
+29,Home & Garden,11.61
+23,Electronics,16.59
+12,Books,21.56
+22,Clothing,30.46
+6,Books,8.38
+22,Electronics,32.11
+8,Toys,39.72
+30,Toys,45.82
+17,Books,47.89
+39,Clothing,24.08
+24,Books,37.44
+23,Home & Garden,37.66
+40,Clothing,3.14
+39,Electronics,6.46
+12,Toys,10.87
+15,Home & Garden,46.07
+11,Clothing,43.74
+21,Clothing,43.63
+23,Books,48.64
+35,Books,20.48
+20,Clothing,34.79
+2,Electronics,39.37
+25,Toys,31.03
+17,Books,26.28
+15,Toys,38.7
+37,Toys,23.59
+30,Electronics,4.8
+29,Home & Garden,9.9
+37,Toys,12.21
+36,Toys,19.79
+17,Clothing,46.76
+25,Toys,46.1
+4,Toys,17.23
+30,Books,9.3
+10,Electronics,37.6
+38,Clothing,41.05
+5,Toys,19.63
+36,Toys,29.04
+7,Home & Garden,9.23
+32,Home & Garden,19.35
+17,Toys,4.38
+29,Clothing,16.33
+40,Home & Garden,41.38
+39,Clothing,45.2
+4,Home & Garden,34.42
+1,Clothing,23.83
+15,Toys,4.63
+23,Home & Garden,41.18
+24,Clothing,45.23
+35,Home & Garden,37.87
+35,Toys,48.75
+21,Electronics,34.77
+39,Electronics,3.56
+13,Toys,31.19
+40,Toys,20.11
+18,Books,27.33
+7,Clothing,17.25
+22,Toys,12.39
+26,Home & Garden,17.07
+30,Clothing,14.23
+9,Home & Garden,44.07
+30,Books,22.64
+34,Books,43.15
+37,Clothing,43.9
+31,Electronics,45.17
+28,Clothing,6.29
+27,Home & Garden,30.89
+22,Clothing,34.99
+6,Toys,17.45
+19,Clothing,2.88
+32,Electronics,6.35
+29,Clothing,16.24
+22,Toys,35.0
+15,Toys,31.5
+11,Clothing,3.79
+34,Home & Garden,23.32
+35,Books,7.17
+29,Books,9.33
+38,Electronics,16.83
+34,Books,6.39
+24,Clothing,17.9
+8,Toys,40.27
+31,Electronics,24.06
+38,Electronics,18.27
+18,Toys,16.77
+11,Clothing,36.22
+6,Books,34.65
+2,Clothing,46.29
+8,Clothing,11.25
+4,Books,14.27
+17,Home & Garden,9.99
+33,Clothing,27.65
+23,Home & Garden,16.44
+2,Home & Garden,34.29
+28,Toys,27.38
+22,Home & Garden,2.42
+14,Home & Garden,49.71
+21,Clothing,1.47
+8,Clothing,6.1
+38,Books,35.21
+17,Home & Garden,42.51
+14,Home & Garden,14.98
+6,Clothing,35.36
+39,Toys,39.27
+33,Toys,35.8
+28,Toys,13.5
+37,Books,30.53
+3,Books,6.56
+40,Electronics,15.87
+29,Books,40.63
+15,Toys,41.99
+26,Books,17.08
+5,Clothing,49.55
+18,Home & Garden,4.84
+38,Toys,36.84
+10,Books,34.7
+32,Electronics,27.93
+13,Clothing,24.42
+18,Clothing,5.01
+11,Clothing,15.42
+4,Electronics,36.05
+24,Books,34.16
+31,Electronics,2.78
+34,Toys,1.25
+29,Clothing,16.77
+1,Books,1.28
+6,Electronics,18.42
+30,Electronics,4.08
+34,Electronics,38.51
+38,Electronics,12.61
+28,Home & Garden,43.42
+5,Clothing,23.2
+2,Home & Garden,43.9
+9,Books,27.59
+9,Electronics,26.41
+40,Toys,33.71
+33,Home & Garden,47.32
+22,Toys,43.28
+30,Electronics,18.53
+26,Clothing,25.17
+13,Home & Garden,25.66
+23,Toys,34.5
+37,Home & Garden,49.41
+34,Toys,10.77
+2,Books,19.12
+1,Books,48.65
+38,Toys,42.86
+33,Clothing,29.34
+30,Toys,45.23
+15,Electronics,11.2
+8,Books,5.33
+7,Home & Garden,49.74
+15,Books,19.34
+18,Toys,27.69
+24,Clothing,14.64
+35,Clothing,18.85
+12,Books,33.82
+18,Clothing,41.79
+2,Electronics,32.17
+39,Home & Garden,31.43
+34,Home & Garden,7.22
+20,Books,12.11
+33,Books,23.62
+34,Electronics,22.72
+2,Electronics,42.03
+8,Home & Garden,45.72
+6,Books,38.89
+23,Electronics,15.61
+39,Clothing,44.01
+27,Electronics,26.61
+23,Toys,41.8
+23,Clothing,3.07
+28,Toys,36.23
+38,Toys,11.37
+12,Home & Garden,11.99
+32,Clothing,33.17
+9,Clothing,38.94
+39,Clothing,6.42
+1,Toys,40.62
+2,Toys,8.89
+18,Home & Garden,9.02
+35,Clothing,36.15
+37,Toys,37.82
+5,Books,33.03
+31,Home & Garden,31.95
+28,Home & Garden,26.41
+9,Toys,8.83
+35,Electronics,35.57
+36,Toys,13.05
+33,Home & Garden,20.99
+5,Home & Garden,37.42
+20,Toys,33.73
+25,Home & Garden,29.99
+14,Toys,31.83
+33,Clothing,26.77
+21,Toys,4.39
+23,Clothing,3.66
+3,Home & Garden,22.43
+21,Books,39.25
+32,Home & Garden,5.86
+39,Electronics,31.91
+39,Toys,30.3
+5,Electronics,6.55
+39,Home & Garden,40.72
+3,Clothing,45.12
+5,Electronics,22.99
+14,Toys,37.17
+26,Toys,12.66
+23,Home & Garden,21.17
+18,Toys,44.95
+26,Books,9.91
+19,Books,28.9
+15,Books,21.28
+9,Electronics,28.16
+21,Clothing,27.1
+13,Electronics,21.85
+14,Electronics,4.47
+40,Clothing,26.95
+29,Clothing,2.6
+3,Books,15.78
+7,Electronics,32.05
+20,Clothing,16.22
+39,Books,35.0
+13,Toys,30.61
+27,Clothing,10.08
+27,Books,40.15
+19,Home & Garden,48.77
+31,Clothing,13.57
+11,Electronics,48.7
+29,Home & Garden,35.11
+33,Books,13.16
+21,Electronics,47.87
+30,Books,27.0
+33,Toys,41.5
+40,Clothing,16.97
+8,Books,45.63
+40,Electronics,47.88
+36,Home & Garden,36.33
+22,Books,48.76
+7,Electronics,21.99
+15,Clothing,1.23
+20,Electronics,46.04
+14,Electronics,30.95
+17,Home & Garden,8.11
+39,Clothing,2.57
+38,Home & Garden,41.99
+24,Electronics,34.42
+27,Clothing,49.54
+19,Clothing,28.09
+8,Clothing,42.44
+40,Clothing,11.39
+2,Home & Garden,22.31
+27,Books,34.05
+32,Home & Garden,4.42
+24,Toys,22.92
+26,Toys,22.87
+37,Home & Garden,23.27
+33,Home & Garden,22.13
+34,Electronics,16.41
+14,Toys,39.81
+38,Home & Garden,44.35
+27,Clothing,14.83
+28,Electronics,30.27
+29,Books,20.93
+12,Books,34.76
+11,Books,4.45
+5,Clothing,26.96
+13,Clothing,27.27
+27,Books,24.35
+16,Toys,36.5
+7,Books,49.37
+27,Toys,39.8
+37,Clothing,28.26
+8,Books,37.51
+31,Toys,43.53
+19,Books,36.99
+40,Clothing,35.74
+20,Home & Garden,45.44
+35,Clothing,33.96
+29,Clothing,6.35
+40,Clothing,43.63
+5,Clothing,6.59
+7,Books,45.71
+6,Electronics,44.63
+39,Books,45.38
+26,Electronics,8.61
+29,Toys,38.89
+37,Clothing,44.17
+13,Toys,28.42
+16,Books,38.89
+23,Electronics,34.61
+30,Toys,37.05
+28,Electronics,13.15
+37,Home & Garden,27.14
+24,Electronics,12.57
+13,Home & Garden,5.54
+6,Clothing,7.39
+10,Toys,19.04
+24,Home & Garden,17.89
+11,Books,9.85
+23,Toys,7.85
+27,Home & Garden,21.36
+1,Books,39.02
+3,Home & Garden,4.55
+18,Clothing,9.48
+27,Toys,48.05
+27,Clothing,27.27
+29,Books,22.74
+12,Books,36.13
+1,Clothing,48.3
+27,Home & Garden,24.13
+3,Books,18.49
+34,Clothing,6.87
+15,Electronics,23.52
+7,Electronics,32.67
+24,Home & Garden,15.24
+31,Electronics,7.99
+26,Home & Garden,11.75
+15,Books,41.69
+30,Electronics,19.56
+17,Clothing,3.02
+2,Electronics,34.21
+25,Clothing,14.79
+35,Books,45.77
+17,Clothing,36.41
+32,Clothing,16.38
+4,Home & Garden,26.56
+7,Home & Garden,38.45
+28,Books,35.5
+8,Electronics,14.04
+11,Electronics,1.2
+30,Toys,22.14
+23,Home & Garden,21.8
+30,Toys,19.97
+32,Electronics,11.36
+27,Books,14.53
+31,Toys,39.04
+36,Home & Garden,30.67
+10,Clothing,36.96
+19,Books,34.19
+5,Electronics,46.72
+38,Home & Garden,49.41
+39,Toys,42.52
+3,Clothing,20.03
+39,Toys,46.11
+17,Electronics,21.71
+36,Home & Garden,38.24
+20,Home & Garden,27.13
+31,Electronics,22.58
+13,Home & Garden,37.32
+31,Toys,21.86
+39,Home & Garden,2.67
+1,Toys,24.73
+8,Toys,9.47
+33,Clothing,25.02
+15,Home & Garden,18.39
+39,Electronics,48.03
+19,Toys,33.7
+27,Home & Garden,37.44
+20,Toys,23.41
+34,Clothing,38.17
+40,Books,45.11
+6,Books,11.44
+15,Toys,28.15
+16,Home & Garden,11.02
+11,Electronics,12.71
+16,Books,44.86
+39,Clothing,25.89
+4,Toys,20.32
+23,Clothing,28.93
+24,Toys,46.43
+5,Home & Garden,15.77
+5,Home & Garden,26.7
+28,Toys,32.65
+37,Electronics,16.42
+39,Books,6.6
+23,Home & Garden,40.47
+9,Clothing,28.95
+23,Electronics,19.9
+30,Home & Garden,12.52
+4,Electronics,11.16
+13,Toys,1.96
+2,Home & Garden,11.94
+2,Home & Garden,44.36
+19,Books,45.32
+17,Electronics,3.14
+38,Clothing,21.65
+29,Clothing,17.21
+39,Clothing,26.86
+7,Clothing,11.4
+16,Electronics,24.22
+17,Toys,31.47
+20,Toys,27.58
+32,Books,13.01
+25,Electronics,43.0
+13,Toys,11.8
+19,Clothing,33.15
+37,Home & Garden,3.65
+35,Home & Garden,34.83
+16,Home & Garden,7.13
+14,Clothing,37.76
+25,Home & Garden,46.03
+9,Toys,20.9
+2,Toys,20.93
+33,Home & Garden,14.24
+18,Clothing,45.42
+36,Books,39.66
+22,Home & Garden,5.28
+26,Toys,3.86
+27,Home & Garden,49.0
+16,Toys,38.48
+19,Books,8.2
+16,Clothing,1.45
+38,Clothing,34.92
+7,Toys,30.03
+11,Electronics,49.21
+21,Clothing,18.85
+10,Books,21.66
+6,Electronics,19.66
+4,Books,15.77
+34,Books,38.47
+13,Books,34.94
+19,Home & Garden,30.45
+35,Toys,22.76
+23,Clothing,37.04
+28,Electronics,7.58
+3,Home & Garden,21.94
+33,Clothing,29.07
+33,Electronics,27.14
+7,Clothing,1.69
+39,Electronics,16.01
+32,Books,44.29
+19,Home & Garden,43.44
+16,Clothing,40.07
+35,Clothing,8.86
+10,Home & Garden,6.09
+4,Books,42.02
+15,Toys,43.38
+25,Toys,25.32
+40,Books,9.21
+10,Books,32.45
+24,Electronics,18.62
+35,Toys,3.63
+12,Home & Garden,48.88
+26,Clothing,42.51
+36,Electronics,4.57
+1,Home & Garden,33.99
+20,Home & Garden,22.46
+5,Electronics,22.3
+15,Books,25.6
+38,Toys,8.95
+40,Clothing,12.26
+14,Toys,38.61
+34,Books,28.36
+8,Clothing,34.24
+12,Clothing,20.55
+13,Books,38.27
+31,Home & Garden,25.27
+24,Home & Garden,20.96
+9,Electronics,16.31
+28,Clothing,23.48
+6,Clothing,35.15
+35,Books,1.8
+25,Books,16.94
+11,Books,46.71
+22,Toys,16.9
+12,Clothing,42.21
+10,Toys,10.7
+26,Electronics,19.54
+13,Books,2.05
+2,Home & Garden,11.05
+13,Clothing,35.84
+13,Books,31.19
+30,Home & Garden,26.05
+23,Electronics,36.6
+7,Home & Garden,48.61
+18,Electronics,38.91
+40,Clothing,19.01
+36,Electronics,44.01
+15,Electronics,15.8
+34,Clothing,20.9
+21,Clothing,20.77
+33,Home & Garden,49.48
+30,Electronics,44.26
+9,Clothing,8.61
+32,Clothing,3.75
+22,Home & Garden,34.18
+32,Clothing,27.77
+12,Home & Garden,49.06
+19,Electronics,44.91
+6,Books,25.96
+28,Clothing,34.72
+33,Toys,38.96
+1,Electronics,18.71
+31,Toys,32.13
+40,Electronics,2.15
+5,Electronics,22.36
+7,Home & Garden,31.5
+33,Home & Garden,20.82
+37,Toys,17.47
+19,Clothing,35.16
+17,Toys,30.65
+14,Clothing,28.53
+38,Home & Garden,34.22
+9,Electronics,7.45
+24,Toys,26.54
+22,Home & Garden,3.64
+15,Books,12.47
+28,Toys,1.62
+8,Electronics,15.1
+32,Toys,19.26
+18,Home & Garden,38.43
+15,Electronics,7.94
+39,Clothing,26.59
+32,Books,28.01
+30,Clothing,10.55
+2,Clothing,23.03
+2,Home & Garden,18.14
+12,Clothing,49.97
+1,Electronics,34.02
+29,Home & Garden,15.54
+29,Clothing,1.07
+32,Toys,4.14
+18,Toys,13.45
+33,Toys,19.3
+15,Clothing,28.73
+29,Clothing,3.59
+30,Toys,47.32
+22,Clothing,41.68
+4,Books,42.6
+13,Toys,48.3
+38,Clothing,4.97
+30,Toys,32.25
+15,Books,30.59
+10,Electronics,40.26
+39,Toys,36.87
+21,Electronics,41.5
+12,Books,44.55
+12,Electronics,32.47
+39,Books,13.41
+36,Clothing,32.2
+5,Home & Garden,33.85
+20,Home & Garden,1.58
+26,Home & Garden,7.25
+3,Clothing,6.88
+5,Books,25.92
+8,Books,39.99
+15,Books,39.37
+30,Books,27.4
+30,Electronics,10.52
+27,Electronics,40.83
+33,Clothing,16.89
+25,Electronics,13.9
+37,Clothing,31.27
+11,Toys,26.88
+13,Electronics,41.9
+22,Home & Garden,6.82
+37,Books,34.7
+10,Clothing,7.21
+19,Home & Garden,19.15
+34,Clothing,45.09
+28,Toys,2.07
+35,Toys,27.86
+32,Clothing,22.06
+4,Home & Garden,20.27
+32,Home & Garden,29.67
+8,Books,42.27
+32,Toys,48.01
+7,Clothing,16.94
+17,Books,34.85
+9,Toys,18.52
+12,Books,37.68
+7,Toys,26.26
+1,Home & Garden,22.89
+3,Toys,12.38
+9,Books,29.72
+24,Books,6.81
+30,Toys,30.88
+25,Home & Garden,6.32
+17,Electronics,46.88
+23,Home & Garden,30.26
+14,Home & Garden,14.75
+35,Electronics,39.37
+3,Electronics,37.6
+37,Books,18.5
+6,Toys,11.72
+19,Clothing,38.61
+36,Home & Garden,15.49
+23,Clothing,34.85
+32,Clothing,32.87
+25,Books,33.26
+34,Books,43.52
+25,Toys,39.79
+30,Home & Garden,25.68
+12,Electronics,45.61
+32,Toys,31.88
+5,Toys,19.35
+15,Toys,17.57
+35,Books,14.97
+40,Toys,37.37
+4,Home & Garden,33.35
+36,Clothing,33.42
+18,Books,12.84
+4,Toys,46.08
+39,Home & Garden,9.0
+34,Home & Garden,46.12
+21,Clothing,27.18
+40,Books,32.9
+17,Home & Garden,25.2
+1,Electronics,24.52
+31,Books,27.57
+3,Clothing,18.59
+7,Home & Garden,7.24
+11,Clothing,40.3
+30,Books,24.63
+20,Toys,5.0
+31,Clothing,43.69
+36,Toys,12.24
+22,Toys,38.58
+24,Books,45.25
+11,Books,3.45
+40,Electronics,48.31
+32,Toys,30.44
+39,Home & Garden,28.53
+34,Books,44.6
+40,Home & Garden,17.29
+24,Electronics,12.89
+4,Electronics,37.36
+4,Clothing,21.35
+39,Home & Garden,37.68
+33,Electronics,23.87
+11,Toys,35.64
+17,Toys,40.79
+28,Electronics,30.94
+9,Electronics,26.21
+36,Books,33.72
+39,Books,7.26
+27,Electronics,29.8
+30,Electronics,10.43
+31,Clothing,37.94
+12,Toys,27.32
+2,Clothing,17.53
+26,Toys,23.97
+30,Electronics,5.99
+26,Books,46.67
+10,Home & Garden,36.74
+12,Toys,14.56
+38,Home & Garden,15.47
+33,Books,22.69
+26,Toys,40.13
+25,Electronics,49.38
+11,Home & Garden,8.93
+17,Home & Garden,43.45
+29,Home & Garden,1.01
+4,Home & Garden,39.84
+2,Toys,21.77
+34,Books,11.55
+37,Toys,31.0
+11,Clothing,38.23
+32,Books,23.87
+40,Toys,20.73
+39,Books,1.27
+20,Electronics,10.89
+36,Electronics,38.13
+24,Books,13.89
+26,Toys,15.43
+30,Electronics,19.03
+40,Books,27.28
+38,Home & Garden,36.05
+18,Electronics,1.63
+23,Clothing,29.3
+34,Electronics,11.85
+31,Home & Garden,22.35
+33,Electronics,39.81
+38,Home & Garden,31.76
+10,Clothing,2.0
+13,Clothing,23.02
+4,Electronics,34.98
+7,Clothing,47.01
+1,Home & Garden,13.74
+26,Home & Garden,37.16
+24,Books,21.0
+24,Home & Garden,32.02
+22,Home & Garden,30.0
+29,Books,40.52
+27,Books,11.94
+16,Electronics,36.42
+19,Home & Garden,5.71
+1,Electronics,34.81
+33,Electronics,48.94
+19,Books,40.46
+5,Electronics,7.92
+38,Clothing,33.85
+20,Electronics,49.36
+16,Home & Garden,42.09
+28,Toys,46.21
+25,Books,49.75
+6,Home & Garden,8.26
+24,Clothing,6.15
+33,Toys,6.96
+9,Toys,28.76
+37,Books,16.04
+13,Books,10.96
+24,Books,15.59
+23,Toys,37.73
+9,Home & Garden,46.41
+39,Toys,1.46
+40,Toys,7.48
+36,Books,13.31
+6,Home & Garden,4.81
+30,Books,7.65
+35,Home & Garden,48.27
+36,Toys,12.23
+20,Toys,1.52
+11,Toys,17.98
+19,Electronics,21.16
+28,Clothing,42.75
+13,Toys,31.02
+7,Home & Garden,32.68
+6,Home & Garden,4.15
+25,Toys,38.72
+24,Electronics,43.86
+33,Books,13.36
+33,Home & Garden,12.52
+15,Toys,36.45
+3,Clothing,31.65
+7,Toys,36.96
+36,Toys,5.09
+4,Home & Garden,13.84
+33,Home & Garden,7.23
+36,Electronics,41.17
+23,Home & Garden,30.77
+5,Electronics,30.18
+1,Toys,1.98
+40,Clothing,2.33
+20,Home & Garden,13.67
+21,Electronics,15.12
+29,Toys,10.51
+9,Electronics,22.34
+10,Electronics,41.28
+1,Books,13.02
+30,Clothing,41.57
+4,Electronics,38.84
+22,Home & Garden,22.99
+3,Clothing,15.7
+11,Electronics,29.96
+36,Books,12.78
+9,Clothing,15.4
+31,Books,4.61
+17,Clothing,4.22
+10,Toys,14.77
+37,Books,36.38
+33,Toys,34.65
+12,Home & Garden,29.39
+4,Books,10.93
+24,Clothing,49.77
+18,Electronics,9.03
+22,Books,15.54
+38,Toys,46.96
+11,Home & Garden,4.13
+36,Toys,20.37
+11,Home & Garden,16.46
+16,Clothing,28.44
+24,Home & Garden,5.37
+38,Toys,11.0
+14,Clothing,38.27
+23,Clothing,42.14
+23,Toys,29.0
+25,Home & Garden,33.22
+28,Electronics,33.32
+40,Electronics,29.9
+40,Clothing,44.03
+32,Clothing,21.46
+13,Electronics,29.66
+29,Books,44.49
+29,Books,49.08
+29,Toys,14.79
+16,Electronics,22.51
+16,Home & Garden,29.28
+35,Home & Garden,27.02
+25,Clothing,47.87
+38,Clothing,42.18
+17,Electronics,48.96
+9,Books,2.04
+36,Books,36.24
+36,Home & Garden,16.39
+3,Toys,48.53
+22,Toys,41.96
+26,Electronics,1.72
+31,Electronics,45.18
+23,Clothing,38.06
+29,Home & Garden,30.93
+36,Toys,12.86
+10,Clothing,39.46
+18,Toys,30.06
+6,Toys,44.06
+14,Home & Garden,19.88
+17,Books,22.66
+18,Books,37.58
+14,Books,8.83
+37,Home & Garden,18.51
+4,Home & Garden,7.61
+34,Home & Garden,36.85
+15,Home & Garden,2.02
+34,Electronics,38.41
+30,Home & Garden,5.4
+35,Books,16.05
+30,Clothing,43.05
+18,Toys,19.29
+3,Home & Garden,42.42
+10,Toys,5.77
+37,Books,7.59
+1,Electronics,13.71
+13,Electronics,19.91
+20,Toys,16.59
+32,Electronics,45.08
+34,Home & Garden,8.89
+30,Clothing,1.69
+21,Home & Garden,2.21
+11,Home & Garden,46.53
+17,Home & Garden,33.31
+33,Toys,49.09
+3,Clothing,20.96
+14,Books,3.7
+10,Toys,38.21
+30,Clothing,46.94
+26,Books,2.66
+31,Electronics,23.59
+23,Clothing,44.74
+28,Books,44.11
+16,Books,8.18
+27,Electronics,31.21
+40,Clothing,30.39
+21,Electronics,5.36
+34,Toys,46.93
+7,Home & Garden,2.15
+37,Clothing,7.79
+11,Electronics,18.96
+37,Home & Garden,6.36
+40,Clothing,40.42
+4,Clothing,4.01
+27,Toys,38.73
+34,Toys,29.07
+37,Electronics,44.19
+6,Home & Garden,15.61
+38,Toys,9.25
+30,Clothing,41.03
+38,Books,34.03
+11,Toys,20.05
+18,Home & Garden,11.0
+9,Electronics,23.17
+34,Books,10.32
+14,Electronics,3.12
+35,Clothing,44.49
+31,Clothing,10.1
+12,Home & Garden,33.01
+19,Home & Garden,35.4
+31,Toys,38.89
+8,Home & Garden,25.53
+4,Books,22.02
+37,Books,22.73
+14,Clothing,19.67
+30,Electronics,12.78
+17,Electronics,37.56
+5,Electronics,29.87
+21,Electronics,44.21
+9,Books,33.84
+10,Home & Garden,38.87
+37,Clothing,42.66
+38,Electronics,13.68
+25,Books,1.75
+25,Clothing,10.87
+18,Books,43.75
+36,Books,21.05
+22,Toys,44.68
+20,Home & Garden,40.98
+20,Toys,34.87
+36,Home & Garden,2.84
+36,Toys,2.17
+5,Electronics,42.69
+12,Home & Garden,20.01
+34,Toys,17.64
+1,Electronics,21.66
+27,Home & Garden,35.57
+12,Books,46.5
+27,Electronics,12.79
+18,Books,44.1
+17,Home & Garden,1.58
+15,Electronics,14.71
+38,Clothing,35.29
+8,Clothing,27.01
+40,Home & Garden,14.19
+12,Clothing,11.86
+13,Toys,13.45
+3,Books,26.5
+14,Books,32.37
+21,Books,23.87
+13,Home & Garden,23.9
+28,Clothing,7.22
+8,Books,33.45
+23,Home & Garden,21.5
+3,Books,19.24
+17,Books,24.33
+24,Home & Garden,7.32
+29,Toys,17.42
+33,Clothing,43.33
+5,Home & Garden,29.45
+1,Electronics,2.51
+12,Books,27.05
+10,Books,27.66
+36,Home & Garden,42.8
+23,Home & Garden,8.89
+1,Toys,34.36
+37,Toys,10.79
+21,Home & Garden,1.01
+13,Books,33.86
+7,Clothing,14.24
+34,Home & Garden,10.18
+23,Clothing,18.06
+8,Toys,23.55
+36,Clothing,10.94
+11,Home & Garden,16.39
+30,Toys,27.64
+16,Books,30.11
+6,Books,13.76
+27,Electronics,31.06
+35,Electronics,35.45
+14,Electronics,15.43
+39,Toys,26.02
+21,Toys,11.84
+16,Electronics,31.83
+22,Clothing,26.77
+39,Electronics,48.5
+1,Books,41.33
+15,Clothing,9.23
+28,Clothing,25.78
+26,Books,5.69
+11,Toys,15.01
+30,Toys,34.73
+38,Books,41.69
+32,Books,32.94
+15,Clothing,1.48
+8,Toys,13.45
+2,Books,15.34
+19,Electronics,20.73
+10,Books,9.71
+30,Electronics,38.09
+17,Clothing,41.16
+8,Toys,35.33
+25,Home & Garden,10.39
+4,Electronics,23.19
+15,Clothing,42.59
+39,Toys,10.59
+22,Clothing,32.98
+9,Toys,5.58
+15,Toys,35.1
+40,Home & Garden,15.86
+1,Toys,28.02
+34,Electronics,17.15
+8,Home & Garden,19.21
+22,Books,39.6
+29,Home & Garden,31.83
+17,Electronics,42.0
+12,Clothing,20.88
+8,Books,27.1
+33,Toys,31.14
+9,Books,30.92
+36,Home & Garden,41.41
+40,Electronics,27.94
+36,Home & Garden,6.99
+19,Books,4.41
+10,Home & Garden,1.9
+20,Clothing,38.73
+22,Toys,26.32
+26,Books,49.37
+28,Books,48.1
+22,Home & Garden,12.99
+22,Toys,10.47
+39,Clothing,19.84
+37,Clothing,43.03
+22,Electronics,32.54
+9,Books,37.54
+36,Electronics,3.6
+8,Home & Garden,9.18
+9,Toys,1.73
+16,Electronics,14.52
+22,Clothing,37.52
+27,Home & Garden,33.23
+38,Toys,15.93
+24,Books,45.25
+38,Books,48.12
+5,Home & Garden,4.64
+6,Clothing,39.89
+27,Clothing,49.67
+7,Books,1.27
+16,Home & Garden,19.18
+18,Home & Garden,5.03
+34,Toys,4.64
+28,Toys,30.36
+17,Toys,5.59
+25,Books,49.54
+40,Toys,6.11
+3,Electronics,5.82
+18,Toys,23.35
+37,Clothing,15.39
+10,Books,34.56
+21,Toys,23.43
+33,Books,19.2
+36,Books,45.13
+25,Toys,36.74
+7,Books,38.17
+32,Home & Garden,5.43
+9,Electronics,25.86
+35,Books,14.77
+37,Clothing,1.3
+9,Electronics,31.91
+22,Home & Garden,35.94
+9,Clothing,18.24
+26,Electronics,20.44
+1,Books,40.41
+22,Books,31.95
+14,Clothing,49.97
+31,Books,48.28
+21,Books,30.28
+13,Books,28.86
+36,Books,8.83
+4,Books,44.6
+1,Books,1.01
+29,Toys,39.95
+7,Clothing,32.91
+11,Electronics,5.74
+36,Home & Garden,23.82
+7,Home & Garden,44.45
+38,Clothing,22.57
+15,Toys,35.6
+20,Home & Garden,21.03
+32,Toys,9.68
+35,Toys,45.04
+26,Electronics,30.31
+3,Electronics,24.61
+12,Books,24.21
+29,Books,33.51
+13,Clothing,35.4
+26,Home & Garden,12.86
+5,Home & Garden,14.25
+7,Toys,38.78
+19,Books,36.55
+37,Clothing,33.02
+24,Toys,32.91
+29,Home & Garden,28.97
+15,Toys,11.36
+17,Electronics,41.05
+30,Electronics,41.43
+16,Electronics,1.85
+36,Electronics,39.18
+20,Home & Garden,10.98
+24,Books,7.7
+8,Electronics,18.3
+26,Clothing,13.88
+11,Electronics,22.98
+27,Clothing,49.94
+34,Books,41.43
+21,Books,22.06
+9,Books,44.6
+7,Home & Garden,46.21
+21,Home & Garden,48.63
+4,Books,31.14
+25,Clothing,10.31
+15,Clothing,12.77
+2,Toys,27.94
+12,Home & Garden,8.0
+26,Books,43.12
+30,Home & Garden,21.89
+39,Toys,45.21
+28,Home & Garden,21.07
+2,Electronics,11.73
+20,Books,48.92
+1,Electronics,48.3
+38,Books,11.0
+37,Toys,43.05
+1,Clothing,30.73
+11,Clothing,12.09
+31,Books,21.38
+11,Books,15.45
+31,Clothing,46.46
+11,Electronics,49.01
+21,Toys,44.46
+29,Clothing,1.4
+13,Books,34.63
+7,Toys,21.19
+35,Clothing,5.17
+34,Books,17.0
+1,Books,39.22
+33,Home & Garden,27.61
+32,Books,33.74
+31,Electronics,5.74
+5,Electronics,26.91
+25,Toys,11.66
+39,Electronics,16.67
+2,Books,9.92
+29,Electronics,38.42
+33,Electronics,45.9
+28,Home & Garden,37.55
+34,Clothing,38.28
+38,Electronics,39.64
+28,Electronics,9.08
+15,Electronics,40.24
+35,Clothing,8.98
+32,Electronics,16.48
+7,Clothing,20.41
+36,Clothing,11.57
+1,Electronics,29.68
+34,Clothing,20.14
+25,Toys,26.41
+40,Clothing,1.11
+29,Toys,43.7
+17,Home & Garden,6.25
+20,Home & Garden,20.24
+35,Electronics,42.25
+14,Books,9.86
+7,Toys,27.09
+19,Toys,40.4
+17,Books,47.9
+40,Toys,7.09
+3,Toys,36.89
+19,Clothing,23.42
+11,Books,18.53
+31,Toys,41.81
+31,Clothing,3.79
+39,Books,15.13
+39,Home & Garden,6.11
+13,Clothing,48.52
+40,Clothing,29.4
+30,Clothing,41.61
+26,Books,12.91
+10,Home & Garden,44.13
+23,Books,44.21
+23,Books,16.16
+4,Electronics,47.36
+11,Clothing,25.35
+34,Clothing,19.2
+24,Home & Garden,39.14
+33,Electronics,41.73
+35,Clothing,17.57
+10,Toys,13.02
+28,Books,40.47
+19,Electronics,12.71
+37,Toys,25.74
+24,Clothing,12.19
+14,Home & Garden,29.07
+19,Books,21.39
+40,Books,8.28
+7,Clothing,28.97
+39,Toys,30.9
+23,Clothing,6.39
+16,Toys,38.5
+29,Clothing,47.21
+24,Home & Garden,25.87
+7,Home & Garden,24.33
+30,Clothing,49.46
+37,Home & Garden,11.1
+33,Books,37.31
+28,Books,23.58
+5,Electronics,19.37
+34,Books,20.02
+6,Toys,33.76
+36,Home & Garden,45.32
+34,Electronics,1.48
+33,Clothing,32.3
+32,Home & Garden,47.38
+13,Electronics,19.2
+25,Books,5.63
+13,Books,49.66
+34,Electronics,33.8
+37,Books,11.11
+23,Books,7.06
+35,Electronics,16.32
+27,Home & Garden,29.86
+20,Books,35.28
+11,Clothing,9.98
+28,Electronics,28.55
+23,Electronics,44.55
+20,Home & Garden,18.96
+18,Books,32.11
+35,Home & Garden,2.04
+20,Electronics,21.94
+33,Clothing,17.43
+31,Electronics,41.22
+37,Electronics,8.54
+40,Books,44.21
+33,Electronics,11.3
+39,Home & Garden,49.24
+24,Clothing,12.06
+35,Books,28.48
+35,Clothing,12.32
+24,Electronics,24.54
+16,Home & Garden,46.82
+37,Books,22.67
+17,Toys,40.93
+5,Toys,26.55
+23,Books,6.49
+2,Home & Garden,13.63
+2,Books,33.45
+13,Books,17.24
+4,Books,49.53
+35,Toys,6.17
+36,Electronics,21.03
+25,Home & Garden,19.6
+16,Clothing,35.7
+40,Electronics,31.04
+25,Toys,26.48
+19,Books,39.0
+20,Toys,1.1
+10,Clothing,24.08
+36,Electronics,9.81
+19,Clothing,34.92
+38,Clothing,1.45
+20,Toys,39.32
+13,Home & Garden,7.01
+13,Books,24.72
+29,Electronics,43.97
+29,Electronics,36.83
+10,Clothing,8.5
+14,Books,19.01
+13,Home & Garden,40.01
+18,Electronics,38.4
+1,Books,9.29
+30,Toys,49.08
+33,Clothing,48.39
+5,Electronics,1.19
+21,Home & Garden,49.39
+35,Books,40.66
+13,Books,38.76
+4,Books,11.2
+2,Electronics,45.44
+26,Electronics,26.36
+28,Books,37.1
+18,Toys,31.96
+10,Books,6.04
+8,Electronics,13.19
+30,Clothing,22.88
+29,Books,37.54
+25,Electronics,39.33
+22,Books,7.85
+6,Electronics,16.3
+32,Clothing,16.03
+24,Clothing,16.9
+35,Toys,4.86
+18,Books,19.12
+10,Books,47.27
+31,Clothing,31.96
+30,Home & Garden,40.79
+17,Home & Garden,4.91
+14,Toys,27.62
+28,Books,1.66
+33,Electronics,1.02
+27,Toys,5.34
+9,Clothing,23.68
+28,Home & Garden,34.59
+34,Toys,44.51
+19,Home & Garden,43.45
+35,Clothing,13.19
+32,Home & Garden,32.62
+26,Clothing,18.63
+10,Home & Garden,20.52
+26,Clothing,36.26
+10,Books,15.46
+27,Books,20.19
+27,Electronics,22.59
+4,Home & Garden,32.67
+27,Books,2.51
+7,Home & Garden,1.0
+33,Electronics,39.14
+3,Clothing,13.27
+19,Books,8.41
+39,Toys,36.41
+34,Electronics,4.42
+6,Home & Garden,31.86
+25,Electronics,1.85
+20,Books,12.95
+12,Clothing,18.57
+27,Books,43.09
+29,Toys,35.14
+29,Electronics,35.56
+25,Toys,5.89
+12,Books,40.75
+28,Clothing,8.56
+9,Clothing,39.33
+6,Clothing,2.07
+16,Toys,31.54
+12,Electronics,17.98
+33,Books,22.91
+23,Clothing,3.29
+32,Books,36.9
+10,Toys,14.95
+4,Books,32.0
+33,Books,16.88
+13,Books,44.69
+19,Books,15.05
+32,Electronics,38.25
+31,Clothing,31.41
+22,Toys,38.12
+34,Electronics,15.01
+26,Home & Garden,18.57
+3,Electronics,11.01
+30,Home & Garden,49.64
+5,Books,16.28
+2,Books,4.06
+13,Books,24.55
+30,Clothing,33.88
+36,Clothing,14.5
+21,Toys,25.93
+31,Books,34.85
+36,Toys,19.38
+25,Toys,32.62
+18,Books,4.36
+8,Books,15.46
+1,Toys,11.61
+29,Toys,22.44
+14,Books,38.46
+31,Books,16.79
+13,Clothing,7.88
+38,Electronics,5.3
+18,Home & Garden,32.87
+22,Electronics,47.17
+18,Books,47.3
+37,Books,43.82
+30,Clothing,17.92
+20,Clothing,45.51
+39,Books,48.84
+38,Electronics,29.13
+6,Toys,35.41
+28,Home & Garden,32.18
+22,Home & Garden,25.4
+14,Clothing,22.28
+13,Books,28.83
+3,Electronics,28.57
+32,Home & Garden,11.62
+8,Toys,19.76
+21,Home & Garden,8.65
+18,Toys,23.73
+30,Clothing,23.47
+13,Home & Garden,42.68
+35,Electronics,33.39
+10,Home & Garden,3.21
+18,Books,6.5
+25,Electronics,43.3
+21,Clothing,11.48
+20,Clothing,41.67
+19,Clothing,22.2
+1,Electronics,17.61
+25,Electronics,22.53
+13,Electronics,23.92
+34,Electronics,33.58
+24,Clothing,46.04
+34,Clothing,46.91
+38,Books,10.23
+4,Electronics,21.39
+6,Home & Garden,31.64
+24,Home & Garden,49.04
+25,Books,35.81
+31,Home & Garden,14.1
+35,Electronics,17.79
+13,Toys,43.3
+11,Electronics,44.69
+34,Clothing,41.5
+22,Clothing,6.03
+2,Clothing,34.59
+38,Books,23.76
+21,Home & Garden,24.69
+19,Electronics,26.01
+11,Clothing,46.04
+40,Clothing,10.82
+27,Electronics,37.82
+31,Electronics,7.33
+11,Clothing,39.47
+39,Home & Garden,9.59
+2,Home & Garden,48.97
+35,Home & Garden,17.08
+17,Books,47.83
+14,Books,39.77
+21,Electronics,2.76
+4,Toys,39.52
+38,Toys,11.72
+7,Home & Garden,21.68
+19,Electronics,9.39
+26,Books,8.63
+17,Toys,6.03
+13,Home & Garden,17.78
+11,Electronics,17.65
+24,Toys,40.96
+14,Toys,42.92
+39,Clothing,41.13
+29,Clothing,19.53
+39,Books,17.26
+34,Toys,35.63
+19,Electronics,33.74
+10,Electronics,8.59
+2,Electronics,39.83
+15,Home & Garden,8.88
+7,Books,33.34
+36,Books,24.44
+29,Books,3.67
+11,Home & Garden,48.1
+17,Electronics,13.28
+39,Home & Garden,18.13
+16,Toys,38.51
+19,Toys,14.55
+9,Home & Garden,13.62
+36,Clothing,30.55
+15,Electronics,37.75
+10,Electronics,9.52
+23,Home & Garden,43.55
+29,Books,46.68
+22,Electronics,8.08
+10,Toys,8.68
+22,Books,3.08
+6,Clothing,19.03
+28,Books,36.52
+37,Electronics,46.48
+34,Clothing,38.88
+31,Clothing,40.86
+13,Toys,15.68
+12,Clothing,29.53
+1,Books,16.94
+19,Toys,40.4
+28,Toys,15.72
+36,Books,24.68
+38,Books,21.71
+34,Electronics,8.57
+8,Home & Garden,46.56
+6,Toys,43.64
+30,Home & Garden,20.2
+4,Home & Garden,47.36
+35,Home & Garden,29.58
+28,Books,40.85
+8,Books,21.75
+24,Clothing,28.25
+28,Clothing,34.36
+3,Books,38.53
+20,Clothing,33.53
+32,Toys,38.58
+5,Electronics,4.1
+8,Electronics,22.0
+8,Clothing,30.79
+29,Electronics,3.43
+31,Home & Garden,27.9
+32,Electronics,13.7
+1,Toys,13.44
+6,Home & Garden,26.72
+37,Books,14.16
+15,Home & Garden,18.99
+12,Electronics,28.73
+17,Electronics,3.62
+10,Books,13.6
+17,Home & Garden,35.76
+30,Books,25.31
+40,Toys,24.7
+33,Electronics,3.5
+32,Clothing,37.18
+19,Home & Garden,6.14
+3,Clothing,18.82
+26,Home & Garden,16.0
+39,Home & Garden,10.94
+12,Toys,45.93
+23,Toys,19.9
+26,Home & Garden,8.01
+12,Clothing,22.45
+8,Clothing,33.62
+30,Home & Garden,16.56
+11,Clothing,27.81
+7,Clothing,22.58
+38,Books,24.08
+15,Toys,47.85
+37,Books,40.95
+8,Clothing,43.34
+2,Clothing,13.4
+33,Clothing,38.89
+20,Clothing,40.63
+2,Electronics,36.32
+2,Clothing,39.18
+5,Clothing,22.91
+37,Toys,34.81
+5,Books,44.26
+22,Books,47.95
+19,Toys,8.05
+26,Books,11.4
+12,Books,21.59
+17,Home & Garden,47.28
+21,Clothing,42.6
+26,Toys,49.01
+1,Home & Garden,13.96
+31,Books,35.75
+16,Home & Garden,34.45
+18,Books,41.17
+7,Books,26.88
+10,Clothing,19.74
+9,Toys,8.9
+25,Electronics,28.83
+5,Home & Garden,49.04
+2,Toys,28.94
+5,Home & Garden,12.73
+19,Electronics,28.36
+28,Home & Garden,33.38
+36,Toys,49.5
+7,Books,13.71
+22,Books,40.44
+35,Toys,9.75
+35,Electronics,11.27
+32,Electronics,11.67
+24,Books,32.85
+15,Clothing,27.75
+37,Toys,36.33
+38,Books,40.9
+6,Toys,27.02
+30,Books,37.36
+9,Electronics,32.95
+1,Home & Garden,3.08
+2,Home & Garden,30.4
+19,Toys,14.0
+11,Books,12.28
+34,Electronics,28.84
+23,Clothing,39.07
+11,Toys,41.44
+24,Clothing,12.63
+27,Toys,28.2
+23,Toys,11.51
+22,Electronics,4.95
+40,Books,46.84
+18,Home & Garden,33.02
+28,Toys,19.68
+11,Clothing,45.15
+39,Home & Garden,14.17
+8,Clothing,23.95
+39,Home & Garden,31.91
+15,Toys,14.23
+3,Toys,5.57
+26,Clothing,26.49
+27,Books,29.16
+29,Books,34.62
+35,Clothing,4.44
+27,Toys,4.98
+12,Toys,33.94
+18,Home & Garden,42.32
+26,Books,7.32
+29,Home & Garden,8.33
+14,Home & Garden,27.14
+23,Electronics,1.05
+7,Books,10.01
+35,Electronics,12.6
+22,Toys,47.51
+40,Home & Garden,7.6
+37,Toys,21.95
+27,Toys,29.54
+14,Electronics,5.13
+22,Toys,12.79
+4,Books,45.98
+1,Books,33.68
+27,Clothing,19.47
+9,Clothing,7.44
+10,Home & Garden,13.98
+6,Toys,33.72
+15,Home & Garden,11.18
+40,Toys,40.12
+3,Clothing,7.14
+13,Home & Garden,42.11
+17,Electronics,42.05
+14,Electronics,40.07
+12,Books,9.83
+27,Electronics,49.76
+24,Toys,40.47
+30,Electronics,3.5
+38,Clothing,40.95
+22,Toys,3.64
+20,Home & Garden,5.73
+33,Home & Garden,5.9
+8,Books,40.4
+38,Clothing,2.87
+11,Toys,16.06
+11,Toys,19.99
+15,Electronics,22.53
+11,Clothing,2.68
+19,Home & Garden,5.4
+35,Home & Garden,49.25
+9,Electronics,31.57
+8,Clothing,11.06
+21,Electronics,22.07
+22,Books,44.25
+2,Home & Garden,13.27
+4,Books,19.27
+27,Electronics,35.36
+29,Electronics,16.23
+5,Home & Garden,23.19
+2,Home & Garden,13.72
+37,Toys,36.36
+32,Electronics,26.92
+32,Home & Garden,40.79
+29,Books,45.41
+33,Toys,13.18
+12,Electronics,47.5
+20,Electronics,40.09
+28,Books,14.63
+6,Clothing,16.3
+3,Electronics,19.31
+20,Home & Garden,40.95
+9,Home & Garden,35.67
+8,Electronics,9.57
+17,Toys,4.12
+20,Clothing,13.97
+8,Electronics,25.74
+1,Electronics,41.97
+7,Books,39.36
+2,Books,33.4
+13,Home & Garden,13.71
+21,Home & Garden,41.23
+33,Books,23.57
+27,Home & Garden,25.72
+39,Home & Garden,29.32
+17,Toys,20.65
+11,Clothing,10.22
+20,Books,48.17
+25,Home & Garden,29.97
+24,Clothing,34.76
+4,Toys,30.68
+6,Electronics,21.6
+25,Home & Garden,21.19
+33,Clothing,16.77
+11,Toys,11.07
+31,Books,20.18
+26,Books,41.06
+23,Books,33.81
+8,Clothing,14.75
+1,Books,1.21
+11,Toys,2.87
+24,Toys,39.64
+18,Toys,16.24
+19,Clothing,24.31
+19,Electronics,35.49
+35,Toys,39.97
+11,Electronics,35.09
+4,Clothing,11.94
+21,Toys,43.12
+13,Home & Garden,40.96
+32,Home & Garden,43.75
+40,Home & Garden,47.07
+5,Books,10.06
+17,Toys,29.31
+36,Home & Garden,4.91
+20,Clothing,39.91
+36,Electronics,25.6
+7,Electronics,42.06
+4,Home & Garden,45.32
+11,Electronics,14.95
+26,Home & Garden,20.93
+39,Toys,36.92
+17,Clothing,32.02
+37,Electronics,42.48
+5,Home & Garden,31.62
+29,Clothing,49.71
+39,Toys,44.23
+31,Electronics,36.67
+1,Books,13.77
+33,Home & Garden,35.97
+20,Electronics,45.6
+12,Home & Garden,44.28
+14,Books,29.0
+28,Books,22.87
+21,Home & Garden,27.89
+39,Clothing,20.69
+22,Electronics,5.86
+20,Electronics,28.45
+3,Home & Garden,15.08
+36,Home & Garden,1.63
+9,Clothing,4.14
+1,Electronics,25.92
+34,Toys,41.83
+19,Toys,12.59
+35,Electronics,38.58
+2,Toys,20.85
+7,Home & Garden,6.21
+15,Clothing,37.74
+32,Home & Garden,28.52
+24,Electronics,27.5
+28,Electronics,17.49
+4,Clothing,24.61
+7,Toys,39.21
+10,Home & Garden,5.0
+31,Clothing,47.55
+12,Books,40.94
+29,Home & Garden,31.1
+29,Electronics,34.76
+6,Home & Garden,20.24
+31,Home & Garden,1.37
+20,Home & Garden,21.99
+25,Toys,10.67
+5,Toys,9.31
+8,Home & Garden,18.77
+31,Clothing,17.74
+1,Home & Garden,8.38
+19,Home & Garden,27.42
+5,Home & Garden,26.88
+31,Books,28.46
+2,Books,4.11
+7,Toys,48.49
+8,Toys,14.77
+20,Electronics,10.96
+20,Books,8.76
+34,Home & Garden,14.97
+23,Electronics,27.12
+33,Books,12.44
+8,Books,4.04
+36,Books,12.18
+4,Books,31.46
+17,Clothing,9.26
+10,Toys,7.69
+24,Toys,3.81
+32,Home & Garden,27.08
+35,Clothing,11.8
+32,Toys,15.94
+22,Toys,3.55
+16,Home & Garden,38.16
+7,Home & Garden,16.6
+23,Electronics,23.08
+1,Books,22.44
+27,Toys,21.33
+8,Clothing,16.86
+4,Home & Garden,26.96
+23,Home & Garden,47.22
+19,Books,17.8
+36,Toys,40.6
+28,Books,5.12
+39,Home & Garden,41.53
+40,Electronics,21.5
+1,Home & Garden,29.06
+24,Books,24.87
+21,Electronics,37.47
+19,Toys,23.91
+38,Toys,9.25
+40,Toys,2.62
+22,Home & Garden,15.11
+29,Home & Garden,39.2
+25,Electronics,28.18
+32,Home & Garden,14.51
+7,Electronics,31.71
+17,Home & Garden,4.71
+11,Home & Garden,26.9
+19,Books,22.99
+29,Electronics,19.04
+30,Clothing,21.17
+10,Books,42.36
+38,Toys,17.37
+9,Clothing,46.36
+10,Home & Garden,48.36
+4,Electronics,11.73
+39,Toys,47.63
+39,Toys,33.14
+5,Toys,49.27
+3,Electronics,6.71
+6,Home & Garden,20.95
+18,Electronics,37.05
+27,Books,37.88
+37,Home & Garden,3.03
+40,Home & Garden,19.76
+26,Electronics,22.24
+26,Electronics,31.82
+15,Home & Garden,29.67
+29,Electronics,16.64
+34,Electronics,20.24
+14,Clothing,15.47
+19,Clothing,2.89
+35,Toys,12.44
+35,Home & Garden,34.19
+33,Clothing,16.96
+23,Home & Garden,24.92
+18,Home & Garden,31.2
+29,Home & Garden,1.03
+39,Clothing,11.95
+30,Toys,27.22
+27,Toys,45.66
+18,Toys,45.32
+22,Home & Garden,39.84
+31,Toys,48.09
+3,Books,3.66
+9,Toys,46.25
+5,Clothing,18.75
+18,Toys,36.61
+24,Toys,35.15
+2,Books,44.13
+30,Electronics,15.5
+30,Toys,10.78
+15,Toys,2.43
+23,Electronics,36.13
+10,Toys,32.05
+32,Books,10.22
+9,Electronics,11.47
+26,Books,33.0
+38,Home & Garden,14.13
+2,Home & Garden,44.4
+31,Clothing,27.71
+8,Home & Garden,49.36
+8,Electronics,47.12
+21,Books,2.05
+31,Clothing,6.03
+30,Electronics,39.09
+12,Toys,18.26
+36,Home & Garden,29.46
+18,Books,45.62
+30,Electronics,34.61
+14,Toys,4.26
+39,Books,21.93
+30,Home & Garden,42.02
+21,Books,48.49
+23,Clothing,27.25
+38,Electronics,27.95
+9,Clothing,11.68
+37,Toys,38.19
+31,Books,36.96
+28,Books,19.95
+34,Clothing,41.22
+15,Books,18.88
+36,Clothing,9.74
+4,Toys,29.24
+32,Books,24.99
+16,Electronics,17.17
+10,Clothing,14.08
+7,Books,11.08
+16,Home & Garden,16.73
+34,Electronics,23.89
+5,Clothing,28.47
+38,Home & Garden,14.28
+5,Electronics,27.69
+23,Toys,5.45
+10,Toys,42.29
+27,Toys,19.48
+17,Toys,16.63
+38,Electronics,2.46
+16,Electronics,45.97
+12,Electronics,14.25
+16,Toys,41.58
+8,Clothing,37.06
+15,Clothing,5.45
+40,Books,15.39
+23,Home & Garden,42.39
+6,Toys,42.56
+17,Toys,15.43
+34,Home & Garden,14.51
+19,Toys,45.52
+8,Electronics,40.94
+29,Electronics,22.35
+33,Home & Garden,21.86
+39,Clothing,39.58
+40,Home & Garden,18.83
+36,Electronics,17.47
+13,Home & Garden,9.66
+1,Books,20.93
+35,Books,33.61
+25,Toys,36.85
+31,Books,6.38
+15,Toys,22.76
+9,Electronics,23.0
+25,Clothing,13.12
+11,Clothing,4.45
+10,Toys,5.99
+26,Books,21.57
+33,Home & Garden,18.19
+23,Electronics,31.38
+33,Toys,13.33
+29,Home & Garden,22.16
+26,Clothing,30.15
+36,Home & Garden,44.81
+24,Books,40.13
+35,Books,10.01
+11,Toys,33.07
+25,Clothing,31.23
+26,Books,42.36
+18,Toys,48.84
+11,Electronics,48.02
+22,Electronics,10.24
+5,Books,10.43
+29,Clothing,28.89
+12,Electronics,2.15
+12,Electronics,32.15
+35,Electronics,5.78
+23,Clothing,38.8
+2,Electronics,14.09
+36,Home & Garden,6.68
+22,Electronics,3.36
+38,Books,31.44
+10,Home & Garden,40.16
+36,Electronics,45.55
+19,Books,6.92
+1,Toys,19.79
+2,Electronics,45.09
+2,Home & Garden,5.27
+19,Toys,20.58
+6,Clothing,4.21
+17,Home & Garden,14.13
+18,Toys,18.75
+29,Books,28.47
+15,Books,42.07
+40,Books,33.9
+7,Books,27.42
+40,Books,21.69
+16,Clothing,14.08
+23,Toys,18.64
+30,Home & Garden,25.23
+1,Toys,41.31
+33,Electronics,29.71
+29,Books,11.42
+20,Clothing,1.08
+25,Home & Garden,12.64
+26,Clothing,48.36
+31,Toys,11.98
+10,Books,2.42
+28,Electronics,9.95
+28,Clothing,6.41
+29,Clothing,42.15
+7,Clothing,45.81
+9,Home & Garden,4.49
+13,Toys,2.96
+10,Clothing,15.74
+22,Books,45.9
+14,Books,48.61
+24,Toys,29.86
+18,Electronics,46.04
+22,Clothing,14.48
+33,Clothing,8.63
+35,Books,12.25
+27,Toys,23.33
+21,Electronics,14.22
+40,Books,13.49
+14,Clothing,2.77
+17,Books,5.56
+36,Toys,16.72
+22,Clothing,4.11
+27,Toys,21.68
+2,Books,46.94
+12,Books,7.34
+22,Home & Garden,11.47
+33,Home & Garden,2.18
+22,Toys,14.82
+33,Clothing,23.48
+4,Electronics,19.18
+38,Books,20.43
+7,Electronics,3.79
+39,Home & Garden,22.16
+40,Home & Garden,37.28
+29,Electronics,9.92
+21,Books,28.88
+32,Books,39.07
+11,Electronics,18.8
+8,Clothing,42.08
+2,Electronics,23.67
+8,Electronics,39.16
+39,Clothing,4.36
+15,Clothing,33.44
+5,Electronics,20.94
+30,Toys,21.84
+4,Electronics,46.15
+9,Toys,43.26
+34,Clothing,21.81
+1,Books,20.02
+22,Electronics,19.93
+5,Toys,28.24
+3,Toys,2.24
+3,Home & Garden,27.94
+13,Books,8.61
+20,Clothing,18.22
+22,Home & Garden,5.17
+9,Electronics,45.82
+18,Toys,23.88
+30,Electronics,28.32
+5,Toys,37.67
+21,Toys,32.72
+18,Electronics,49.45
+17,Clothing,18.72
+11,Home & Garden,20.09
+8,Books,24.0
+22,Clothing,28.47
+31,Electronics,35.28
+34,Home & Garden,29.58
+29,Clothing,45.32
+24,Electronics,24.65
+16,Books,41.28
+37,Books,21.84
+22,Home & Garden,49.69
+37,Home & Garden,48.84
+21,Books,8.48
+26,Home & Garden,26.08
+21,Clothing,23.72
+28,Clothing,45.28
+8,Toys,32.21
+18,Toys,18.3
+10,Home & Garden,22.48
